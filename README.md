@@ -5,7 +5,7 @@ The program is written with PrivacySecurer, an Android API used for processing p
 data under various context. 
 
 <div align=center>
-  <img width="150" height="150" src="https://github.com/xinyu1118/NoiseAlert/blob/master/images/photo-1.png" />
+  <img width="280" height="420" src="https://github.com/xinyu1118/NoiseAlert/blob/master/images/photo-1.png" />
 </div>
 
 
